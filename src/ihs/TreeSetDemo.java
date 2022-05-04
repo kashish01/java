@@ -12,7 +12,7 @@ public class TreeSetDemo {
 		tree.add(4);
 		tree.add(6);
 		tree.add(1);
-		tree.add(5);
+		//tree.add(5);
 		
 
 		System.out.println(tree);
