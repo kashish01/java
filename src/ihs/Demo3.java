@@ -7,6 +7,8 @@ public class Demo3 {
 
 		if("a"+"b"+"c" == "ab"+"c")
 			System.out.println("true");
+		else
+			System.out.println("false");
 	}
 
 }
